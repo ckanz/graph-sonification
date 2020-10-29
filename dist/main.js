@@ -1,1 +1,0 @@
-console.log("Hello there!!!"),document.body.appendChild(function(){const e=document.createElement("div");return e.innerHTML="Hello there!",e}());
