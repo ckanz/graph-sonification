@@ -1,7 +1,7 @@
 {
   "name": "graph-sonification",
   "version": "0.0.1",
-  "description": "",
+  "description": "This project is to become a library that can be used to turn graphs into sound. It is still in the experimental phase.",
   "private": true,
   "directories": {
     "lib": "lib"
