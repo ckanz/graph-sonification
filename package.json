@@ -1,0 +1,22 @@
+{
+  "name": "graph-sonification",
+  "version": "0.0.1",
+  "description": "",
+  "main": "demo-app/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckanz/graph-sonification.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckanz/graph-sonification/issues"
+  },
+  "homepage": "https://github.com/ckanz/graph-sonification#readme"
+}
