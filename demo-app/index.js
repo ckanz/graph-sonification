@@ -1,9 +1,4 @@
-function component() {
-  const element = document.createElement('div');
-  element.innerHTML = 'Hello there!';
+import GraphSonification from '../lib'
 
-  return element;
-}
-
-console.log('Hello there!')
-document.body.appendChild(component());
+const myNewGS = new GraphSonification({ nodes: [], rels: []})
+myNewGS.sonify()
